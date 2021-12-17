@@ -2,9 +2,9 @@ Generate random number between 1 to 25  [✅]
 input field for each players to make a guess [✅]
 submit button  [✅]
 number counter  []
-    [] display counter on DOM
+    [✅ display counter on DOM
 check if number submission is greater than or less than random number []
-if player guess is right give them a reward  []
+if player guess is right give them a reward  [✅]
 
 
 ON SERVER'
